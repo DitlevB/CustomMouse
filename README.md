@@ -2,9 +2,9 @@
 
 ![Alt text](https://raw.githubusercontent.com/DitlevB/CustomMouse/main/images/Exploded%20view.PNG)
 
-<br/> 
-This is how I made a lightweight 3D printed mouse by using the internals from a Razer Mamba Wireless. 
-The idea for the project started from a YouTube video by OptimumTech and his process of developing the Zeromouse.<br/> 
+
+<br/> This is how I made a lightweight 3D printed mouse by using the internals from a Razer Mamba Wireless. 
+The idea for the project started from a YouTube video by OptimumTech and his process of developing the Zeromouse.<br/><br/> 
 
 **Goal for the project**<br/> 
 I wanted to create a lightweight wireless mouse which was specifically tailored to my ergonomics and to save weight, only with material where I usually grip my mouse.<br/> 
@@ -27,4 +27,5 @@ A few iterations of this process was made usng FDM 3D printers while also refini
 **Final version**<br/> 
 I was fortunate enough to have access to SLA printers at the time where I could print the final version. This was the final result:<br/> 
 
-![Alt text](https://raw.githubusercontent.com/DitlevB/CustomMouse/main/images/Final.png)
+![Alt text](https://raw.githubusercontent.com/DitlevB/CustomMouse/main/images/Final1.png)
+![Alt text](https://raw.githubusercontent.com/DitlevB/CustomMouse/main/images/Final2.png)
